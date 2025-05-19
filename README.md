@@ -21,3 +21,8 @@ Business Insights: Interpreted clusters and identified customer profiles, such a
 •	Dataset:
 	UCI Bank Marketing Dataset (https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
+ # Result and business benefit:
+- Ability to accurately identify banking services and create personalized offers.
+- Effectively target marketing campaigns.
+- Drives customer loyalty and profitability
+
