@@ -15,5 +15,5 @@ Business Insights: Interpreted clusters and identified customer profiles, such a
 
 # Tools & Technologies used:
 •	Programming Language: Python
+
 •	Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-•	Optional: Streamlit for interactive dashboard
