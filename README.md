@@ -17,3 +17,8 @@ Business Insights: Interpreted clusters and identified customer profiles, such a
 •	Programming Language: Python
 
 •	Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
+•	Dataset:
+	UCI Bank Marketing Dataset (https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+ 
+	Alternatively: any anonymized customer dataset from Kaggle
